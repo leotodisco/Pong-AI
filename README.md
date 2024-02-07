@@ -6,7 +6,7 @@ In questo progetto ho ricreato in Python il famoso gioco PONG introducendo un av
 ## Installazione
 1. **Clona la repository**
 1. ```bash
-   git clone https://github.com/leotodisco/pong-ia-neat.git
+   git clone https://github.com/leotodisco/Pong-AI
    cd pong-ia-neat
 2. **Installa le dipendenze**
 2. ```bash
